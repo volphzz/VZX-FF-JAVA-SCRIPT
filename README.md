@@ -1,7 +1,6 @@
 # VZX — documentação de instalação e configuração
 
 - [Guia de instalação e configuração](Documentacao/INSTALACAO-CONFIGURACAO.md)
-- [Roteiro de gravação do tutorial](Documentacao/ROTEIRO-GRAVACAO.md)
 
 Os guias descrevem a versão JavaScript/Electron usada na pasta local `X:\JAVA`.
 
