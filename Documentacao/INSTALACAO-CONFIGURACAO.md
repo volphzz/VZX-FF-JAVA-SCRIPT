@@ -3,6 +3,14 @@
 Guia da versão JavaScript/Electron em `X:\JAVA`.
 Revisão: 14/10/2026.
 
+## Instalador assistido
+
+Os arquivos [instalar.bat](../instalar.bat), [configurar.js](../configurar.js) e [settings.example.json](../settings.example.json) devem ficar na pasta completa do aplicativo. Abra `instalar.bat` para verificar/instalar Node.js, instalar Electron/Koffi e informar serial ADB e título da janela. Enter mantém os valores atuais. As preferências existentes são preservadas com backup.
+
+O instalador não instala BlueStacks/jogo, não ativa root e não baixa os arquivos ausentes do aplicativo. O repositório contém documentação e instalador; ainda é necessário obter a pasta completa, com package.json, package-lock.json e binário auxiliar.
+
+Para verificar sem instalar ou alterar configuração: `instalar.bat --verificar`.
+
 ## 1. Qual versão este guia usa
 
 Este guia é para o aplicativo SEM LOGIN e SEM API em `X:\JAVA`.
