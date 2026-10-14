@@ -285,9 +285,3 @@ npm.cmd run probe
 Os testes não comprovam o alinhamento visual nem o efeito do aim em jogo.
 O probe gera `logs/probe.json`, coleta dados e encerra sem abrir o overlay.
 
-## 12. Gravar o tutorial
-
-Use `ROTEIRO-GRAVACAO.md`, nesta mesma pasta, como sequência da demonstração.
-Mostre os passos e resultados reais, sem prometer compatibilidade universal
-ou ausência total de atraso. Esta versão não exige senha ou licença da API.
-
